@@ -15,7 +15,6 @@
 4. https://estydaven.github.io/surgut/news.html
 5. https://estydaven.github.io/surgut/opinions.html
 6. https://estydaven.github.io/surgut/post-without.html
-7. 
 
 #### Примечание
 
