@@ -9,7 +9,7 @@
 
 ### Страниуы проекта доступны по ссылкам:
 
-1. https://estydaven.github.io/surgut/index.html
+1. https://estydaven.github.io/surgut/
 2. https://estydaven.github.io/surgut/category.html
 3. https://estydaven.github.io/surgut/longread.html
 4. https://estydaven.github.io/surgut/news.html
